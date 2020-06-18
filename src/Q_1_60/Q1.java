@@ -7,7 +7,7 @@ public class Q1 {
 
         bool[0] = new Boolean(Boolean.parseBoolean("TRUE"));
         bool[1] = new Boolean(null);  //null in degeri olmadigi icin false donusur
-
+// new comment
         System.out.println(bool[0] + " " + bool[1]);
     }
 
