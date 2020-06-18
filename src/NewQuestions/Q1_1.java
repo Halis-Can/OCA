@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Q1_1 {
     public static void main(String[] args) {
-        int [] sinav = new int[5];
+        int [] sinav = new int[6];
         sinav[1] =1;
         sinav[2] =2;
         sinav[3] =3;
